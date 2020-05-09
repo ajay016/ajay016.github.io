@@ -57,6 +57,10 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 100%, rgba(0
 	color: white;
 }
 
+.dropdown li a:hover {
+	color: blue;
+}
+
 .items {
 	font-size: 15px;
 	font-weight: bold;
